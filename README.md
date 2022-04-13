@@ -76,7 +76,7 @@ The accuracy is a bit overfitting when hidden layer was set to 5. Hidden layers 
 
 ![Screenshot](ss/svm2.jpg)
 
-Logistic Regression
+**Logistic Regression**
 
 1) Logistic regression is a statistical analysis approach that uses independent characteristics to try to predict precise probability outcomes. On high-dimensional datasets, this may cause the model to be over-fit on the training set, overstating the accuracy of predictions on the training set, and so preventing the model from accurately predicting outcomes on the test set.
 2) The below figure describes the accuracy of the model before the fine tuning.
